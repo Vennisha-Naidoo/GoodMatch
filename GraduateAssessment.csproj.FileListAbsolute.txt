@@ -1,0 +1,14 @@
+C:\Users\venni\Dropbox\My PC (LAPTOP-DTS9DJKS)\Desktop\Derivco\GraduateAssessment\GraduateAssessment\bin\Debug\netcoreapp3.1\GraduateAssessment.exe
+C:\Users\venni\Dropbox\My PC (LAPTOP-DTS9DJKS)\Desktop\Derivco\GraduateAssessment\GraduateAssessment\bin\Debug\netcoreapp3.1\GraduateAssessment.deps.json
+C:\Users\venni\Dropbox\My PC (LAPTOP-DTS9DJKS)\Desktop\Derivco\GraduateAssessment\GraduateAssessment\bin\Debug\netcoreapp3.1\GraduateAssessment.runtimeconfig.json
+C:\Users\venni\Dropbox\My PC (LAPTOP-DTS9DJKS)\Desktop\Derivco\GraduateAssessment\GraduateAssessment\bin\Debug\netcoreapp3.1\GraduateAssessment.runtimeconfig.dev.json
+C:\Users\venni\Dropbox\My PC (LAPTOP-DTS9DJKS)\Desktop\Derivco\GraduateAssessment\GraduateAssessment\bin\Debug\netcoreapp3.1\GraduateAssessment.dll
+C:\Users\venni\Dropbox\My PC (LAPTOP-DTS9DJKS)\Desktop\Derivco\GraduateAssessment\GraduateAssessment\bin\Debug\netcoreapp3.1\GraduateAssessment.pdb
+C:\Users\venni\Dropbox\My PC (LAPTOP-DTS9DJKS)\Desktop\Derivco\GraduateAssessment\GraduateAssessment\obj\Debug\netcoreapp3.1\GraduateAssessment.csproj.AssemblyReference.cache
+C:\Users\venni\Dropbox\My PC (LAPTOP-DTS9DJKS)\Desktop\Derivco\GraduateAssessment\GraduateAssessment\obj\Debug\netcoreapp3.1\GraduateAssessment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\venni\Dropbox\My PC (LAPTOP-DTS9DJKS)\Desktop\Derivco\GraduateAssessment\GraduateAssessment\obj\Debug\netcoreapp3.1\GraduateAssessment.AssemblyInfoInputs.cache
+C:\Users\venni\Dropbox\My PC (LAPTOP-DTS9DJKS)\Desktop\Derivco\GraduateAssessment\GraduateAssessment\obj\Debug\netcoreapp3.1\GraduateAssessment.AssemblyInfo.cs
+C:\Users\venni\Dropbox\My PC (LAPTOP-DTS9DJKS)\Desktop\Derivco\GraduateAssessment\GraduateAssessment\obj\Debug\netcoreapp3.1\GraduateAssessment.csproj.CoreCompileInputs.cache
+C:\Users\venni\Dropbox\My PC (LAPTOP-DTS9DJKS)\Desktop\Derivco\GraduateAssessment\GraduateAssessment\obj\Debug\netcoreapp3.1\GraduateAssessment.dll
+C:\Users\venni\Dropbox\My PC (LAPTOP-DTS9DJKS)\Desktop\Derivco\GraduateAssessment\GraduateAssessment\obj\Debug\netcoreapp3.1\GraduateAssessment.pdb
+C:\Users\venni\Dropbox\My PC (LAPTOP-DTS9DJKS)\Desktop\Derivco\GraduateAssessment\GraduateAssessment\obj\Debug\netcoreapp3.1\GraduateAssessment.genruntimeconfig.cache
